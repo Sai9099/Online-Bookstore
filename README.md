@@ -35,7 +35,7 @@ Styling: [Tailwind CSS / Bootstrap]
 
 💡 Full-stack development learning
 
-#WebDevelopment #FullStack #Ecommerce #JavaScript #React #NodeJS #OnlineBookstore #CodingJourney
+
 
 <img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/53724fd4-befa-4276-a838-1bdd03e6bab2" />
 
