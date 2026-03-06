@@ -18,13 +18,13 @@ The Online Bookstore is a full-stack web application that simulates an e-commerc
 
 🛠️ Tech Stack
 
-Frontend: [React / Next.js / Angular]
+Frontend: React / Next.js
 
-Backend: [Node.js / Express / Django / etc.]
+Backend: Node.js 
 
-Database: [MongoDB / MySQL / PostgreSQL]
+Database: MongoDB 
 
-Styling: [Tailwind CSS / Bootstrap]
+Styling: Tailwind CSS
 
 
 📌 Use Cases
